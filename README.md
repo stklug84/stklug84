@@ -110,15 +110,6 @@ been to over the years:
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stklug84&show_icons=true&hide_border=true&theme=default" alt="Steffen's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stklug84&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
----
-
 ### ⚡ When I'm not building
 
 🚴 Cycling · 🏃 Running · 📚 Reading sci-fi & history books · 🎲 Designing boardgames · 🐉 Pen & paper RPGs and TCGs · 🎵 Programming computer music
